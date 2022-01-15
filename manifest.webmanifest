@@ -1,0 +1,15 @@
+{
+    "background_color": "#bbdefb",
+    "description": "a2hs sample",
+    "display": "standalone",
+    "icon": [
+        {
+            "src": "icon.png",
+            "size": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "name": "add to home screen sample",
+    "short_name": "a2hs sample",
+    "start_url": "a2hs-sample/index.html"
+}
